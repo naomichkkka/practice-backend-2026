@@ -21,7 +21,7 @@
 
 ## ER-диаграмма
 
-![ER-диаграмма](./projects\Pykhalova_survey-api.png)  
+![ER-диаграмма](./projects/Pykhalova_survey-api.png)  
 *(Ссылка на dbdiagram.io: [Survey API ER](https://dbdiagram.io/d/Pykhalova_survey-api-69a182cfa3f0aa31e14d2779))*
 
 **Таблицы базы данных:**
