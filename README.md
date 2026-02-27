@@ -116,7 +116,7 @@
 
 1. Склонировать репозиторий и перейти в папку проекта:
 ```bash
-git clone <repo-url>
+git clone https://github.com/naomichkkka/practice-backend-2026/tree/dev
 cd survey-api
 ```
 2. Установить зависимости:
